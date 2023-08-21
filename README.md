@@ -1,6 +1,6 @@
 - 👋 Hi there!
 - 👨🏻‍💻 I'm a support analyst and part time full stack dev
-- 💻 I've been coding with html, CSS and JavaScript for the past 4 years!
+- 💻 I've been coding with html, CSS and JavaScript for the past 2 years and Python for the past 4 years!
 - 🌱 I’m currently learning SQL and PHP with Laravel
 - 👨🏼‍🎓 I'm studying for a data science extension course's degree
 - 👾 Pentesting and cyber-security enthusiast
